@@ -1,16 +1,52 @@
-# spotify_clone
+# 🎵 Spotify UI Clone (Flutter)
 
-A new Flutter project.
+A beautiful and responsive **Spotify Clone UI** built using **Flutter**.  
+This project replicates the look and feel of the Spotify mobile app, including smooth navigation between pages — but without backend functionality.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎧 Spotify-style home screen
+- 🔍 Search page layout
+- 📁 Your Library UI
+- 👤 User Profile / Settings UI
+- 🔁 Bottom Navigation Bar
+- 🔙 Navigation between all main pages
+- 📱 Responsive layout (supports multiple screen sizes)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚧 Note
+
+> 🚫 This is a **UI-only project**. No backend/API integration or music playback is implemented.
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool / Package     | Purpose                             |
+|--------------------|-------------------------------------|
+| Flutter            | Frontend Framework                  |
+| Dart               | Programming Language                |
+| Icons / Assets     | Spotify-style icons & images        |
+| Navigator 2.0/1.0  | Page transitions & routing          |
+
+---
+
+
+## 🚀 Getting Started
+
+### 1️⃣ Prerequisites
+
+- Flutter SDK  
+- Android Studio or VS Code  
+- A physical device or emulator
+
+### 2️⃣ Installation
+
+```bash
+git clone https://github.com/SushobhitGautam/spotify_ui_clone.git
+cd spotify_ui_clone
+flutter pub get
+flutter run
