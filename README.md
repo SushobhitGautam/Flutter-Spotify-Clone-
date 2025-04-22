@@ -46,7 +46,7 @@ This project replicates the look and feel of the Spotify mobile app, including s
 ### 2️⃣ Installation
 
 ```bash
-git clone https://github.com/SushobhitGautam/spotify_ui_clone.git
+git clone https://github.com/SushobhitGautam/Flutter-Spotify-Clone-.git
 cd spotify_ui_clone
 flutter pub get
 flutter run
